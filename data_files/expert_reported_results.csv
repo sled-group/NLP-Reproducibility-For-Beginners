@@ -1,0 +1,9 @@
+result_id,model_name,result_name,reported,expert,simple
+experiment_result_A0,PtnTime,Start,80.6,80.2,57.3
+experiment_result_A1,PtnTime,End,73.2,73.7,69.8
+experiment_result_A2,PtnTime,All,76.6,76.6,64.1
+experiment_result_B,Our Alignment Model (base),Accuracy,66.3,66.2,16.5
+experiment_result_C0,RoBERTa_B/TabFact,Dev,68.06,69,33.33
+experiment_result_C1,RoBERTa_B/TabFact,α_1,66.7,68,33.33
+experiment_result_C2,RoBERTa_B/TabFact,α_2,56.87,58.7,33.33
+experiment_result_C3,RoBERTa_B/TabFact,α_3,55.26,56.2,33.33

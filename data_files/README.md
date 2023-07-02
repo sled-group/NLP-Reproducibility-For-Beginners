@@ -1,0 +1,1 @@
+Under the stipulations of our IRB, the subject data file cannot be released. However, we provide the data file with our own reproduced results `expert_reported_results.csv`, and a sample dummy data file `sample_data.json` to help future work use our code in similar studies.

@@ -1,0 +1,68 @@
+[
+    {
+        "subject_id": 0,
+        "skill_level": "beginner",
+        "paper": "B",
+        "presurvey": {
+            "python_years": 1.0,
+            "pytorch_years": 1.0,
+            "python_pytorch_years": 2.0,
+            "exp_python_before": 1.0,
+            "exp_pytorch_before": 1.0,
+            "exp_python_now": 5.0,
+            "exp_pytorch_now": 5.0,
+            "python_pytorch_avg_score": 3.0,
+            "hw2_score": 4.0,
+            "hw3_score": 2.0,
+            "hw_avg_score": 3.0,
+            "weighted_score": 3.0
+        },
+        "postsurvey": {
+            "understanding_motivation": 5,
+            "understanding_problem_definition": 5,
+            "understanding_related_work": 5,
+            "understanding_approaches": 5,
+            "understanding_implementation": 5,
+            "understanding_results": 5,
+            "understanding_conclusion": 5,
+            "understanding_explain_to_classmates": 5,
+            "experiment_success": "Yes",
+            "experiment_result_A0": 1.0,
+            "experiment_result_A1": 1.0,
+            "experiment_result_A2": 1.0,
+            "experiment_time_setup_training_hours": 1.0,
+            "experiment_time_setup_training_minutes": 1.0,
+            "experiment_time_setup_evaluation_hours": 0.0,
+            "experiment_time_setup_evaluation_minutes": 2.0,
+            "experiment_rating_reproducibility": 5,
+            "experiment_rating_download_code": 5,
+            "experiment_rating_download_data": 5,
+            "experiment_rating_setup": 5,
+            "experiment_rating_preprocessing": 5,
+            "experiment_rating_training": 5,
+            "experiment_rating_evaluation": 5,
+            "understanding_cq1_correct": true,
+            "understanding_cq2_correct": true,
+            "understanding_cq3_correct": true,
+            "understanding_cq4_correct": true,
+            "understanding_cq5_correct": true,
+            "understanding_cq6_correct": true,
+            "understanding_cq7_correct": true,
+            "understanding_cq_accuracy": 1.0,
+            "aclrc_additions": [
+                "detailed_instructions"
+            ],
+            "reproducibility_blockers": [
+                "better_data_access"
+            ],
+            "reproducibility_helpers": [
+                "dependencies"
+            ],
+            "aclrc_helpful": [
+                "A clear description of the mathematical setting, algorithm, and/or model",
+                "A link to a downloadable version of the dataset or simulation environment"
+            ]
+        },
+        "gpu_mins": 60.0
+    }
+]
